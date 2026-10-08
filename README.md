@@ -1,16 +1,22 @@
-## Hi there 👋
+# Giovanny Coronel Flores
 
-<!--
-**GiovannyCF/GiovannyCF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Sobre mí
+Ingeniero en Sistemas especializado en desarrollo del lado backend.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- **JavaScript** - Node.js
+- **Java** - Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos
+Actualmente no tengo proyectos destacados para mostrar.
+
+## 🌱 Actualmente
+- Aprendiendo inglés
+
+## 💬 Contacto
+- **Email:** cfgiovanny@gmail.com
+- **GitHub:** [GiovannyCF](https://github.com/GiovannyCF/GiovannyCF)
+
+## 🌐 Idiomas
+- Español (nativo)
+- Inglés (en aprendizaje)
